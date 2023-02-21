@@ -1,4 +1,4 @@
-package com.example.custommetricsocp;
+package com.redhat.custommetricsocp;
 
 import java.util.concurrent.atomic.AtomicLong;
 
