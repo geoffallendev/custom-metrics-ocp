@@ -1,4 +1,4 @@
-package com.example.custommetricsocp;
+package com.redhat.custommetricsocp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
