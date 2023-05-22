@@ -10,5 +10,6 @@ Prometheus
 
 ### 
 http://localhost:8080/hello-world?name=test
+
 http://localhost:8080/actuator/prometheus
  
